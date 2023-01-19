@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 679dc937369b7da4085e594d6ef8497e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Viner Hand ITC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f158f017bec83d54e9d866217cc1c5e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

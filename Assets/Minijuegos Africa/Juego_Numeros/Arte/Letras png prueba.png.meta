@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: 473d1e1136770d14982e050628a444ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2133246399343766431
+    second: Letras png prueba_0
+  - first:
+      213: 4176749189571564179
+    second: Letras png prueba_1
+  - first:
+      213: 3818894492551234330
+    second: Letras png prueba_2
+  - first:
+      213: -4392631832781574425
+    second: Letras png prueba_3
+  - first:
+      213: -7726229913935134652
+    second: Letras png prueba_4
+  - first:
+      213: -5327644886459035134
+    second: Letras png prueba_5
+  - first:
+      213: 2207538037210177572
+    second: Letras png prueba_6
+  - first:
+      213: -3949402859952773096
+    second: Letras png prueba_7
+  - first:
+      213: 852274752301574642
+    second: Letras png prueba_8
+  - first:
+      213: -1231666147009182253
+    second: Letras png prueba_9
+  - first:
+      213: -5132641191967202227
+    second: Letras png prueba_11
+  - first:
+      213: -8474370041703276377
+    second: Letras png prueba_12
+  - first:
+      213: 5200766452048524548
+    second: Letras png prueba_13
+  - first:
+      213: 7917125664627864346
+    second: Letras png prueba_14
+  - first:
+      213: -2121488692537179777
+    second: Letras png prueba_15
+  - first:
+      213: -436773409085081612
+    second: Letras png prueba_16
+  - first:
+      213: -5851227804782707704
+    second: Letras png prueba_17
+  - first:
+      213: 3002233921165342948
+    second: Letras png prueba_18
+  - first:
+      213: 7619571356929249237
+    second: Letras png prueba_19
+  - first:
+      213: -5667523986793479963
+    second: Letras png prueba_20
+  - first:
+      213: -3909675257817855057
+    second: Letras png prueba_21
+  - first:
+      213: 8931365993250397344
+    second: Letras png prueba_22
+  - first:
+      213: 4726955151200382121
+    second: Letras png prueba_23
+  - first:
+      213: 6921421996514674021
+    second: Letras png prueba_24
+  - first:
+      213: 3942146792113839132
+    second: Letras png prueba_25
+  - first:
+      213: 7206125968719928589
+    second: Letras png prueba_26
+  - first:
+      213: -5924864688465269407
+    second: Letras png prueba_27
+  - first:
+      213: -4462198920514002047
+    second: Letras png prueba_28
+  - first:
+      213: 4503608494631613723
+    second: Letras png prueba_29
+  - first:
+      213: 8201031443980257398
+    second: Letras png prueba_30
+  - first:
+      213: -1813562758162990289
+    second: Letras png prueba_31
+  - first:
+      213: -2910750127581924471
+    second: Letras png prueba_32
+  - first:
+      213: 2067087323968756786
+    second: Letras png prueba_33
+  - first:
+      213: -9099681130514394140
+    second: Letras png prueba_34
+  - first:
+      213: -1809552092820273767
+    second: Letras png prueba_35
+  - first:
+      213: -4802463651315311282
+    second: Letras png prueba_36
+  - first:
+      213: -4619200592090884315
+    second: Letras png prueba_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Letras png prueba_0
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 693
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164dbb4c3bf2562e0800000000000000
+      internalID: -2133246399343766431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 693
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3925050324bc6f930800000000000000
+      internalID: 4176749189571564179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 693
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13463fbe407ff430800000000000000
+      internalID: 3818894492551234330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 693
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee2bf90f9c3a03c0800000000000000
+      internalID: -4392631832781574425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_4
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 693
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44046ee14dae6c490800000000000000
+      internalID: -7726229913935134652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_5
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 693
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202de2de3376016b0800000000000000
+      internalID: -5327644886459035134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_6
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 693
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42063181620c2ae10800000000000000
+      internalID: 2207538037210177572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_7
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 693
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8186a911607e039c0800000000000000
+      internalID: -3949402859952773096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_8
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 693
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f928f52f53e3db00800000000000000
+      internalID: 852274752301574642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_9
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 693
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c4a93a2e38eee0800000000000000
+      internalID: -1231666147009182253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 364
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44e141a70235c8b0800000000000000
+      internalID: -5132641191967202227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 364
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06011a85df46a80800000000000000
+      internalID: -8474370041703276377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 362
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405fe168885dc2840800000000000000
+      internalID: 5200766452048524548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 364
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13b54268d74fdd60800000000000000
+      internalID: 7917125664627864346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 364
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7140563645fe82e0800000000000000
+      internalID: -2121488692537179777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 364
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7b52806e440f9f0800000000000000
+      internalID: -436773409085081612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 362
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb90c00534ccea0800000000000000
+      internalID: -5851227804782707704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_18
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 364
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e830b348d31aa920800000000000000
+      internalID: 3002233921165342948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 364
+        width: 14
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df428667c72eb960800000000000000
+      internalID: 7619571356929249237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 364
+        width: 25
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e04b2b36f8e851b0800000000000000
+      internalID: -5667523986793479963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_21
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 364
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab02ae311b0eb9c0800000000000000
+      internalID: -3909675257817855057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_22
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 364
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac91baec0692fb70800000000000000
+      internalID: 8931365993250397344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 364
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac60806aa4899140800000000000000
+      internalID: 4726955151200382121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_24
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 364
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56505d272a4dd0060800000000000000
+      internalID: 6921421996514674021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_25
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 364
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c146cfe9155b630800000000000000
+      internalID: 3942146792113839132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 362
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd44c836d410460800000000000000
+      internalID: 7206125968719928589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_27
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 364
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16da5c505f6a6cda0800000000000000
+      internalID: -5924864688465269407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_28
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 353
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a1a939b51312c0800000000000000
+      internalID: -4462198920514002047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_29
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 364
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f2f19018008e30800000000000000
+      internalID: 4503608494631613723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_30
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 362
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678804ab5aaefc170800000000000000
+      internalID: 8201031443980257398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_31
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 364
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b31d5b74ee4d6e0800000000000000
+      internalID: -1813562758162990289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_32
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 362
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9837e874e20fa97d0800000000000000
+      internalID: -2910750127581924471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_33
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 364
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cded028f4cfac10800000000000000
+      internalID: 2067087323968756786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_34
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 364
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e35d56593077b180800000000000000
+      internalID: -9099681130514394140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_35
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 364
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99502e085fd23e6e0800000000000000
+      internalID: -1809552092820273767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_36
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 364
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d10a0f0c83a5db0800000000000000
+      internalID: -4802463651315311282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letras png prueba_37
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 364
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527162af88d45efb0800000000000000
+      internalID: -4619200592090884315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

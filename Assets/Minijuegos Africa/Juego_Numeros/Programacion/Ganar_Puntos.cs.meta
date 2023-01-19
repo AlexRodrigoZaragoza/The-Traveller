@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 41f56e66b5d984948a49fe7583a9d755
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - puntosText: {fileID: 4208082208832732186, guid: e2287b2c8a8093740b92c0990a66c805, type: 3}
+  - puntosFinal: {fileID: 6502952052395909222, guid: 8ccd73d90b176f845a89f7622edd117f, type: 3}
+  - Acierto: {fileID: 1110226526692424855, guid: 79f9c98e8ae8c74428a4f3ee7a496e07, type: 3}
+  - Error: {fileID: 5318035698644386193, guid: 18cc3db4b1bd55f4592a5e745351a6ae, type: 3}
+  - Spawn: {fileID: 4573157649475673124, guid: 370285c8364e1674ebe90ce91288bd9f, type: 3}
+  - rt: {instanceID: 0}
+  - Corrutinas: {fileID: 7287813157548196558, guid: 9cbc25ddd7d55664abdafc9ecccd9a3b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

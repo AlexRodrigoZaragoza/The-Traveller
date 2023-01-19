@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: dbb6505ae7b9f5747bc13cce37f2ff2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6438177887561177979
+    second: BG
+  - first:
+      213: 3068409812028117582
+    second: atlas azteca jose_28
+  - first:
+      213: 1955985218137187959
+    second: atlas azteca jose_29
+  - first:
+      213: -7824941053324081183
+    second: atlas azteca jose_30
+  - first:
+      213: -3599964355500686553
+    second: atlas azteca jose_31
+  - first:
+      213: -3824999010327555102
+    second: atlas azteca jose_32
+  - first:
+      213: -6033842742085942018
+    second: atlas azteca jose_33
+  - first:
+      213: 8228819217985655286
+    second: atlas azteca jose_34
+  - first:
+      213: 2310560266927270650
+    second: atlas azteca jose_35
+  - first:
+      213: -6154129434729827094
+    second: atlas azteca jose_36
+  - first:
+      213: -2792382838470617967
+    second: atlas azteca jose_38
+  - first:
+      213: 5645189804651501084
+    second: atlas azteca jose_39
+  - first:
+      213: -8424250269046254249
+    second: atlas azteca jose_40
+  - first:
+      213: 8092213911081573144
+    second: atlas azteca jose_41
+  - first:
+      213: 4999877391774575680
+    second: atlas azteca jose_42
+  - first:
+      213: -907397681287051877
+    second: atlas azteca jose_43
+  - first:
+      213: 1856201155053352592
+    second: atlas azteca jose_44
+  - first:
+      213: 141643514113933139
+    second: atlas azteca jose_45
+  - first:
+      213: 5468983170645915840
+    second: atlas azteca jose_46
+  - first:
+      213: -2588822297322028377
+    second: atlas azteca jose_47
+  - first:
+      213: -221385953200893379
+    second: atlas azteca jose_49
+  - first:
+      213: 7825133454351990340
+    second: atlas azteca jose_50
+  - first:
+      213: -5603217958200348412
+    second: atlas azteca jose_51
+  - first:
+      213: 423113022607015214
+    second: atlas azteca jose_52
+  - first:
+      213: 6870092098861453758
+    second: atlas azteca jose_53
+  - first:
+      213: -4213410989718282047
+    second: atlas azteca jose_54
+  - first:
+      213: 7960173163455071420
+    second: atlas azteca jose_55
+  - first:
+      213: -863166270742723361
+    second: atlas azteca jose_56
+  - first:
+      213: 4363946581580165731
+    second: atlas azteca jose_57
+  - first:
+      213: -7303023966074158579
+    second: atlas azteca jose_59
+  - first:
+      213: -8630491768642536575
+    second: atlas azteca jose_60
+  - first:
+      213: 6340853628076356436
+    second: atlas azteca jose_61
+  - first:
+      213: -4602955610882147997
+    second: atlas azteca jose_62
+  - first:
+      213: 7985133748583184766
+    second: atlas azteca jose_63
+  - first:
+      213: 8317153739811287508
+    second: atlas azteca jose_64
+  - first:
+      213: -2650385711643277458
+    second: atlas azteca jose_65
+  - first:
+      213: 2987407769553554969
+    second: atlas azteca jose_66
+  - first:
+      213: 4658923544773932465
+    second: atlas azteca jose_67
+  - first:
+      213: 5300454718453343586
+    second: atlas azteca jose_68
+  - first:
+      213: 8597782497091959065
+    second: atlas azteca jose_69
+  - first:
+      213: -1988411158149370823
+    second: atlas azteca jose_70
+  - first:
+      213: 79460151862994265
+    second: atlas azteca jose_71
+  - first:
+      213: -8329607916727447951
+    second: atlas azteca jose_72
+  - first:
+      213: 4211888455885085201
+    second: atlas azteca jose_73
+  - first:
+      213: 1891998869134853663
+    second: atlas azteca jose_74
+  - first:
+      213: -6559566320572898185
+    second: atlas azteca jose_76
+  - first:
+      213: -1141693401373954520
+    second: atlas azteca jose_77
+  - first:
+      213: 5664017268708100120
+    second: atlas azteca jose_78
+  - first:
+      213: 7286404879025888226
+    second: atlas azteca jose_79
+  - first:
+      213: -5999692686498682483
+    second: atlas azteca jose_80
+  - first:
+      213: 9032227522735094447
+    second: atlas azteca jose_81
+  - first:
+      213: -6695291667191656860
+    second: atlas azteca jose_82
+  - first:
+      213: 2920071510359088553
+    second: atlas azteca jose_84
+  - first:
+      213: -1368835187384179178
+    second: atlas azteca jose_85
+  - first:
+      213: 2838828857110192431
+    second: atlas azteca jose_86
+  - first:
+      213: -4683898995520729034
+    second: atlas azteca jose_87
+  - first:
+      213: -5832217207774563682
+    second: atlas azteca jose_88
+  - first:
+      213: 1140539663082101901
+    second: atlas azteca jose_89
+  - first:
+      213: -5702495786403632127
+    second: atlas azteca jose_90
+  - first:
+      213: -8799172134306255405
+    second: atlas azteca jose_91
+  - first:
+      213: 2910869593140801740
+    second: atlas azteca jose_92
+  - first:
+      213: 6340453630552333855
+    second: atlas azteca jose_93
+  - first:
+      213: -1586495750551307268
+    second: atlas azteca jose_97
+  - first:
+      213: 6068012382676429596
+    second: atlas azteca jose_98
+  - first:
+      213: 3442445940001857685
+    second: atlas azteca jose_99
+  - first:
+      213: 5309797367614146832
+    second: atlas azteca jose_100
+  - first:
+      213: 1206731274052661420
+    second: atlas azteca jose_101
+  - first:
+      213: -2495418729874204512
+    second: atlas azteca jose_105
+  - first:
+      213: 3541827578605718766
+    second: atlas azteca jose_106
+  - first:
+      213: -5532393412888959708
+    second: atlas azteca jose_107
+  - first:
+      213: -4281803696547499997
+    second: atlas azteca jose_108
+  - first:
+      213: 3323233189292097773
+    second: atlas azteca jose_109
+  - first:
+      213: -8627599955422039985
+    second: atlas azteca jose_110
+  - first:
+      213: -7918506636338330801
+    second: atlas azteca jose_111
+  - first:
+      213: 2151068899838645652
+    second: atlas azteca jose_112
+  - first:
+      213: -5607976617028738184
+    second: atlas azteca jose_113
+  - first:
+      213: -7847464277933502623
+    second: atlas azteca jose_114
+  - first:
+      213: -5730273930973850707
+    second: atlas azteca jose_115
+  - first:
+      213: 2363119282207122234
+    second: atlas azteca jose_116
+  - first:
+      213: -6324927441972348133
+    second: atlas azteca jose_117
+  - first:
+      213: -6303184922905433452
+    second: atlas azteca jose_121
+  - first:
+      213: -2107549942303454264
+    second: atlas azteca jose_122
+  - first:
+      213: 3167583998562932946
+    second: atlas azteca jose_123
+  - first:
+      213: 1221052610358010666
+    second: atlas azteca jose_124
+  - first:
+      213: -7991502610647532203
+    second: atlas azteca jose_125
+  - first:
+      213: 192165642775650767
+    second: atlas azteca jose_126
+  - first:
+      213: 4689597363511782421
+    second: atlas azteca jose_127
+  - first:
+      213: 4085836450260216908
+    second: atlas azteca jose_128
+  - first:
+      213: -1586705568093566421
+    second: atlas azteca jose_129
+  - first:
+      213: 1733964441450602630
+    second: atlas azteca jose_130
+  - first:
+      213: -3940812031193946624
+    second: atlas azteca jose_131
+  - first:
+      213: 2524889040364341493
+    second: atlas azteca jose_132
+  - first:
+      213: -938375416591597968
+    second: atlas azteca jose_133
+  - first:
+      213: -3547855324236545595
+    second: atlas azteca jose_134
+  - first:
+      213: 3169762884591570562
+    second: atlas azteca jose_135
+  - first:
+      213: -1250125527470163674
+    second: atlas azteca jose_136
+  - first:
+      213: 6324634854037162251
+    second: atlas azteca jose_137
+  - first:
+      213: -6589693836903869930
+    second: Puntuacion
+  - first:
+      213: -4307825277182053024
+    second: Timer
+  - first:
+      213: 7750352460230290351
+    second: FondoConMarco
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1330
+        width: 1920
+        height: 1083
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdbd48da0095950800000000000000
+      internalID: 6438177887561177979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas azteca jose_51
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1721
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f06244fe5d32b0800000000000000
+      internalID: -5603217958200348412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas azteca jose_79
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1437
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd208e1a28e1560800000000000000
+      internalID: 7286404879025888226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puntuacion
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 67
+        width: 264
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61293c87e54bc84a0800000000000000
+      internalID: -6589693836903869930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 72
+        width: 269
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0657d17fbb78734c0800000000000000
+      internalID: -4307825277182053024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoConMarco
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 205
+        width: 1917
+        height: 1078
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe91cdf78ce8b60800000000000000
+      internalID: 7750352460230290351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9916235f06da124aa3dcb2a846010a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

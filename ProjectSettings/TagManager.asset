@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boton
+  - bola
+  - Buenos
+  - Malo
+  - cards
+  - Canvas
+  - OtherPieces
+  - SmallTriangle
+  - Sombra
+  - BigTriangle
+  - CanvasVictoria
+  - posis
+  - Piezas
+  - Limite_puzzle
+  - Puntuacion
+  - PuzzleIMG
+  - Azul_inicio
+  - Azul_final
+  - Negro_inicio
+  - Negro_final
+  - Amarillo_inicio
+  - Amarillo_final
+  - Rojo_inicio
+  - Rojo_final
+  - Verde_inicio
+  - Verde_final
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pausa
+  - Linea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 557437747
+    locked: 0
+  - name: Puntos
+    uniqueID: 2306315905
+    locked: 0
+  - name: UI
+    uniqueID: 1518977753
+    locked: 0

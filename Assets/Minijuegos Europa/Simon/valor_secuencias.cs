@@ -1,0 +1,170 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+public class valor_secuencias : MonoBehaviour
+{
+    public int Valor_Secuencia;
+    public SpriteRenderer SpriteRenders;
+    public Sprite Light_on;
+    public Sprite defaults;
+    public Sprite fallar;
+    public GameObject lose;
+    public GameObject win;
+    public GameObject esconder;
+    public GameObject todo;
+    public Text t_final;
+    public AudioSource perder, acertar;
+    private void Start()
+    {
+        SpriteRenders = gameObject.GetComponent<SpriteRenderer>();
+
+    }
+    public void Light_button()
+    {
+        SpriteRenders.sprite = Light_on;
+    }
+
+    //MOVER TODO AL SCRIPT SECUENCIA
+    private void OnMouseDown()
+    {
+        
+        if (Secuencia.fin_de_secuencia == true)
+        {
+            Secuencia.fin_de_secuencia = false;
+            StartCoroutine("Al_clicar");
+        }
+        
+    }
+    IEnumerator Al_clicar()
+    {
+        //Falta añadir castigo al perder y cerrar "bucle" dependiendo de la dificultad, en caso de dificultad facil aumento maximo = 1
+        if (Secuencia.inverso != true)
+        {
+            if (Valor_Secuencia == Secuencia.numeros[Secuencia.aumento])
+            {
+
+                SpriteRenders.sprite = Light_on;
+
+                escalar();
+                Secuencia.aumento++;
+                Secuencia.numero_aciertos++;
+                BD_Simon.puntos_simon = "" + Secuencia.numero_aciertos;
+                acertar.Play();
+
+            }
+            else
+            {
+                BD_Simon.puntos_simon = "" + Secuencia.numero_aciertos;
+
+                SpriteRenders.sprite = fallar;
+                perder.Play();
+                escalar();
+
+                Secuencia.numero_de_fallos--;
+                if (Secuencia.numero_de_fallos == 0)
+                {
+                    
+                    Secuencia.start_time = false;
+                    Secuencia.fin_de_secuencia = false;
+                    yield return new WaitForSeconds(1);
+                    
+                }
+            }
+        }
+        
+        if (Secuencia.inverso == true)
+        {
+            if (Valor_Secuencia == Secuencia.numeros[Secuencia.aumento])
+            {
+                
+                SpriteRenders.sprite = Light_on;
+                acertar.Play();
+                escalar();
+
+                Secuencia.aumento--;
+                Secuencia.numero_aciertos++;
+                BD_Simon.puntos_simon = "" + Secuencia.numero_aciertos;
+            }
+            else
+            {
+                BD_Simon.puntos_simon = "" + Secuencia.numero_aciertos;
+
+                SpriteRenders.sprite = fallar;
+
+                escalar();
+                perder.Play();
+
+                Secuencia.numero_de_fallos--;
+                if (Secuencia.numero_de_fallos == 0)
+                {
+                    
+                    Secuencia.start_time = false;
+                    Secuencia.fin_de_secuencia = false;
+                    yield return new WaitForSeconds(1);
+                    
+                }
+            }
+        }
+
+        //HACER QUE AL CLICAR NO HAYA DELAY
+        Secuencia.fin_de_secuencia = true;
+        yield return new WaitForSeconds(0.5f);
+        switch (Secuencia.dificultad)
+        {
+            case 1:
+                gameObject.transform.localScale = new Vector3(30, 30, 0);
+                SpriteRenders.sortingOrder = 5;
+
+                break;
+            case 2:
+                gameObject.transform.localScale = new Vector3(17, 19, 0);
+                SpriteRenders.sortingOrder = 5;
+
+                break;
+            case 3:
+                gameObject.transform.localScale = new Vector3(12, 13, 0);
+                SpriteRenders.sortingOrder = 5;
+
+                break;
+            case 4:
+                gameObject.transform.localScale = new Vector3(12, 13, 0);
+                SpriteRenders.sortingOrder = 5;
+
+                break;
+        }
+
+        SpriteRenders.sprite = defaults;
+    }
+    void escalar()
+    {
+        switch (Secuencia.dificultad)
+        {
+            case 1:
+                gameObject.transform.localScale = new Vector3(35, 35, 1);
+                SpriteRenders.sortingOrder = 5;
+                break;
+            case 2:
+                gameObject.transform.localScale = new Vector3(25, 25, 1);
+                SpriteRenders.sortingOrder = 5;
+
+                break;
+            case 3:
+                gameObject.transform.localScale = new Vector3(20, 20, 1);
+                SpriteRenders.sortingOrder = 5;
+
+                break;
+            case 4:
+                gameObject.transform.localScale = new Vector3(20, 20, 1);
+                SpriteRenders.sortingOrder = 5;
+
+                break;
+        }
+    }
+  
+    public void normal_button()
+    {
+        SpriteRenders.sprite = defaults;
+    }
+}
